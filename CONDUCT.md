@@ -6,6 +6,7 @@ We are committed to making participation in this project a harassment-free exper
 
 Examples of unacceptable behavior by participants include:
 
+We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, ra
 * The use of sexualized language or imagery
 * Personal attacks
 * Trolling or insulting/derogatory comments
